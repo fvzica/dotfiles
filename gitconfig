@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = felipevzica@gmail.com
+	name = Felipe Zica
